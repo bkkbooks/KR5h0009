@@ -1,0 +1,23 @@
+canonical_identifier: bkk:krp/KR5h0009/CK-KZ-jye/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 觀
+  hash: sha256:41aae3ba33d1aec4d83b948218bb7f73e866aa2420be2c3abcc33ba2bf4627c3
+metadata:
+  title: 皇經集註(高上玉皇本行集經註)
+  edition:
+    short: CK-KZ-jye
+  date: '2015-08-29 03:00:58.290729'
+  source:
+    repository: kanripo
+    path: KR5h0009/KR5h0009_000.txt
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    WYG: http://img.kanripo.org/general/skqs/wyg/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+hash: sha256:f8c704f4e071b15e43e231c5297283467d0051717b68ee5d969f60eecf389de3

@@ -1,0 +1,160 @@
+canonical_identifier: bkk:krp/KR5h0009/ZTDZ/v1
+canonical_location: https://kanripo.org/bkk/KR5h0009/ZTDZ/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 皇經集註(高上玉皇本行集經註)
+  date: '2015-08-29 03:00:58.290729'
+  source:
+    repository: kanripo
+    path: KR5h0009
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    WYG: http://img.kanripo.org/general/skqs/wyg/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+  edition:
+    short: ZTDZ
+    label: 【正統道藏・三家本】
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR5h0009_000-ZTDZ.yaml, hash: 'sha256:f9408bba45234027c42e41472466e396464730654ad7540f759d474bf398d017'}
+  - {seq: 1, filename: KR5h0009_001-ZTDZ.yaml, hash: 'sha256:619c63ece8a37146284b4f6af41f1a552806e628a3464d977ce4d0243d285fab'}
+  - {seq: 2, filename: KR5h0009_002-ZTDZ.yaml, hash: 'sha256:e94fcb9d64d2de2b287b4688fbb03aa8dee84dbc61330baa63aa77f4edcdce00'}
+  - {seq: 3, filename: KR5h0009_003-ZTDZ.yaml, hash: 'sha256:4085c49121392f173d819d8035d7a31c59ebcb3f0f734bf073dd35eca361c9a4'}
+  - {seq: 4, filename: KR5h0009_004-ZTDZ.yaml, hash: 'sha256:78c8435b8fa17b2d0d7b8fc25bb32fe96e698d031c670e2efa0cdb74e124438b'}
+  - {seq: 5, filename: KR5h0009_005-ZTDZ.yaml, hash: 'sha256:8c363766886be45041142b49b51c7d2309b853d44bdcf2461fdcdb381cb32e7a'}
+  - {seq: 6, filename: KR5h0009_006-ZTDZ.yaml, hash: 'sha256:c917ecba64d190fd90c01c3cd9d9d3d484e834772da6a4319eadc6091c262e30'}
+  - {seq: 7, filename: KR5h0009_007-ZTDZ.yaml, hash: 'sha256:5e537e643e246d9846fff5269737932bb44be7f09ed52ebbff2a7b1e744da70e'}
+  - {seq: 8, filename: KR5h0009_008-ZTDZ.yaml, hash: 'sha256:0f77bc8e5f9739f55883222b210e2fb2532da93a53d60c99d1a38ae8ce74fa1c'}
+  - {seq: 9, filename: KR5h0009_009-ZTDZ.yaml, hash: 'sha256:07f069963ffa985c482a1fd28a4af007bcf909420fb0ceafe80a4f4c1b3d1730'}
+  - {seq: 10, filename: KR5h0009_010-ZTDZ.yaml, hash: 'sha256:30dce869064c4bd4b08d8213cf1dad7d0a233ef164d5e9ade8e24eae580c0890'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR5h0009_000-ZTDZ.markers.yaml, hash: 'sha256:f1b42fd0f931a40f1f1337ac28f4943a5d2006d7faf22352e549ea121e00d03a'}
+  - {seq: 1, role: markers, filename: assets/KR5h0009_001-ZTDZ.markers.yaml, hash: 'sha256:fc49893bf976845c0cc7ed85e41a7e6c16cc4eb244ecac054b7dcc5806a45f34'}
+  - {seq: 2, role: markers, filename: assets/KR5h0009_002-ZTDZ.markers.yaml, hash: 'sha256:12b94ddef19d635b9c23dfba0c7f021ff7bd138caaf1dc60060497340728fba9'}
+  - {seq: 3, role: markers, filename: assets/KR5h0009_003-ZTDZ.markers.yaml, hash: 'sha256:78102c5730fcc734fb82092585a585dbfcf6497d69470efc42401a41147fc89f'}
+  - {seq: 4, role: markers, filename: assets/KR5h0009_004-ZTDZ.markers.yaml, hash: 'sha256:46b115abf471e1a1a0538bd68b4e48e6ed2133fded701688dfd77c1d21a36ef5'}
+  - {seq: 5, role: markers, filename: assets/KR5h0009_005-ZTDZ.markers.yaml, hash: 'sha256:1e705bd70cd229c93391e80675eabd0f48e3480971682bf411d51e5d5f8f7eb2'}
+  - {seq: 6, role: markers, filename: assets/KR5h0009_006-ZTDZ.markers.yaml, hash: 'sha256:53c026bbbe83a6d778e4cc79098b9f7dab7ef6eefcf14f06fe326c2ee92753b4'}
+  - {seq: 7, role: markers, filename: assets/KR5h0009_007-ZTDZ.markers.yaml, hash: 'sha256:50ce455963f8afd9239e38d3b265093426d1abb2cf169e6013991321c59fec2d'}
+  - {seq: 8, role: markers, filename: assets/KR5h0009_008-ZTDZ.markers.yaml, hash: 'sha256:5bf119e381ca1e4d39cbab4821002be8b41fc7f13765a22126e49df8dff29a06'}
+  - {seq: 9, role: markers, filename: assets/KR5h0009_009-ZTDZ.markers.yaml, hash: 'sha256:b7b57f001961da9bcb7ac0e98ad76ddd3d00e01c2d77ad8ec98c577ecc780a7c'}
+  - {seq: 10, role: markers, filename: assets/KR5h0009_010-ZTDZ.markers.yaml, hash: 'sha256:755e2e2d00419d06b5e5989ed9f05a4096d8c1a333e0b66b1236ba993e6e4c58'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 0
+    - 0
+  label: juan 000
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR5h0009_SJB_001-340628c
+    span:
+    - body
+    - 0
+    - 10513
+  label: juan 001
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR5h0009_SJB_002-340638c
+    span:
+    - body
+    - 0
+    - 9075
+  label: juan 002
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR5h0009_SJB_003-340648c
+    span:
+    - body
+    - 0
+    - 9623
+  label: juan 003
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR5h0009_SJB_004-340658c
+    span:
+    - body
+    - 0
+    - 9531
+  label: juan 004
+  type: section
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR5h0009_SJB_005-340668c
+    span:
+    - body
+    - 0
+    - 8836
+  label: juan 005
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR5h0009_SJB_006-340678c
+    span:
+    - body
+    - 0
+    - 8264
+  label: juan 006
+  type: section
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR5h0009_SJB_007-340688c
+    span:
+    - body
+    - 0
+    - 8890
+  label: juan 007
+  type: section
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR5h0009_SJB_008-340698c
+    span:
+    - body
+    - 0
+    - 8205
+  label: juan 008
+  type: section
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR5h0009_SJB_009-340708c
+    span:
+    - body
+    - 0
+    - 6339
+  label: juan 009
+  type: section
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR5h0009_SJB_010-340718c
+    span:
+    - body
+    - 0
+    - 7670
+  label: juan 010
+  type: section
+  level: 1
+hash: sha256:c712d3221fabbcc4b10396932b2ea786cfcb7a19e9e9971ef28943b00c33aa20

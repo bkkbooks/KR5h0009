@@ -1,0 +1,1179 @@
+canonical_identifier: bkk:krp/KR5h0009/CK-KZ-jye/v1
+canonical_location: https://kanripo.org/bkk/KR5h0009/CK-KZ-jye/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 皇經集註(高上玉皇本行集經註)
+  date: '2015-08-29 03:00:58.290729'
+  source:
+    repository: kanripo
+    path: KR5h0009
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    WYG: http://img.kanripo.org/general/skqs/wyg/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+  edition:
+    short: CK-KZ-jye
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR5h0009_000-CK-KZ-jye.yaml, hash: 'sha256:f8c704f4e071b15e43e231c5297283467d0051717b68ee5d969f60eecf389de3'}
+  - {seq: 1, filename: KR5h0009_001-CK-KZ-jye.yaml, hash: 'sha256:d53f87dbb38eb9d5f5650010d46952d7ffa3c666c6678c626ae1de780230edb0'}
+  - {seq: 2, filename: KR5h0009_002-CK-KZ-jye.yaml, hash: 'sha256:e664de68db4b2a76ad45fce1ba459f99828825d294c64108e970298b2171364f'}
+  - {seq: 3, filename: KR5h0009_003-CK-KZ-jye.yaml, hash: 'sha256:cd6d78fab10a6598206e353ab6e575550f6a153e4d8cc6d96dd5e752fbaa35e3'}
+  - {seq: 4, filename: KR5h0009_004-CK-KZ-jye.yaml, hash: 'sha256:d3fba18aa95c7e82b7b43e0dc05e26b0039b54dfc26444aa76fa9b6c20bdd80f'}
+  - {seq: 5, filename: KR5h0009_005-CK-KZ-jye.yaml, hash: 'sha256:919d4b4f07e196e8a25419c95968d3cb0a3cf5fbdf4a9cc8d7abec64bcaac1e1'}
+  - {seq: 6, filename: KR5h0009_006-CK-KZ-jye.yaml, hash: 'sha256:53a1b9230b2a80fcb53148de4a48cbc11935663110043ebbf02e6feb56fbe9a8'}
+  - {seq: 7, filename: KR5h0009_007-CK-KZ-jye.yaml, hash: 'sha256:6c9eab3165ec3fd05a68a6d7e5e2960b943a698f2205369f8aa26fa99d2e171a'}
+  - {seq: 8, filename: KR5h0009_008-CK-KZ-jye.yaml, hash: 'sha256:2e49a4fffb1fc0337eb73e4b7de7bd637f0b09ad7b753dcd39b8133bace96c6b'}
+  - {seq: 9, filename: KR5h0009_009-CK-KZ-jye.yaml, hash: 'sha256:cb3b6a116f3f0f7342722b91a43cd767e3096f9651419124c1ecbc5eed2209bf'}
+  - {seq: 10, filename: KR5h0009_010-CK-KZ-jye.yaml, hash: 'sha256:9291285eaea44f591098514752e2785a11c9519e49728a9fb56415825ea5a014'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR5h0009_000-CK-KZ-jye.markers.yaml, hash: 'sha256:37efd2facd81e91cb2e859dd4e9f5a185e4226ec33517d1e76d1ecee6f2dd384'}
+  - {seq: 1, role: markers, filename: assets/KR5h0009_001-CK-KZ-jye.markers.yaml, hash: 'sha256:2182bb893e65c01a53f33e98ab6f51129a3c4109738c1e64362e5a2d133fca11'}
+  - {seq: 2, role: markers, filename: assets/KR5h0009_002-CK-KZ-jye.markers.yaml, hash: 'sha256:7983c9199ef25b4b49e2051c11dfeab0dcb0020b42cde371ded66ed21ee82462'}
+  - {seq: 3, role: markers, filename: assets/KR5h0009_003-CK-KZ-jye.markers.yaml, hash: 'sha256:b6332042db6abacfa2418f183ec8647c42d67e7dc7bd0a69aab7d9fcaf6250ef'}
+  - {seq: 4, role: markers, filename: assets/KR5h0009_004-CK-KZ-jye.markers.yaml, hash: 'sha256:b0fc5b1ed28016c19b6e9062daab5fd15c3d7055f5dfc2e0893eef5f3fb34195'}
+  - {seq: 5, role: markers, filename: assets/KR5h0009_005-CK-KZ-jye.markers.yaml, hash: 'sha256:298199b343b205b72685ae525b76c4144b50a9510d7a8889ff31657ff94f8cd2'}
+  - {seq: 6, role: markers, filename: assets/KR5h0009_006-CK-KZ-jye.markers.yaml, hash: 'sha256:fbfc44c352729a6f9ac9daa7753e2297b26a61af1d7cc70a8c149bafb1ac0d81'}
+  - {seq: 7, role: markers, filename: assets/KR5h0009_007-CK-KZ-jye.markers.yaml, hash: 'sha256:2a3e1033ffe1e5aba54f07c69cdfbbf233f17302eaefcb7d74cb1cde0dcbe5cd'}
+  - {seq: 8, role: markers, filename: assets/KR5h0009_008-CK-KZ-jye.markers.yaml, hash: 'sha256:aa14e836e73ecd22c940b81906f74fd3452d605b29581156aa215fc31ef12a60'}
+  - {seq: 9, role: markers, filename: assets/KR5h0009_009-CK-KZ-jye.markers.yaml, hash: 'sha256:37e1a4b78dd63bd374c7a53d1bdf1f75f7880008c711b20187be52c758c0ee56'}
+  - {seq: 10, role: markers, filename: assets/KR5h0009_010-CK-KZ-jye.markers.yaml, hash: 'sha256:aa588f64bbeca37d6f91e1239ce46344dd31cb96c640b6417eaacf07a5ef3cca'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 0
+    - 1
+  label: juan 000
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR5h0009_CK-KZ_01p018b
+    span:
+    - body
+    - 0
+    - 5234
+  label: juan 001
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR5h0009_CK-KZ-jye_002-h2
+    span:
+    - body
+    - 0
+    - 390
+  label: 神通品一章
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR5h0009_CK-KZ-jye_002-h3
+    span:
+    - body
+    - 390
+    - 672
+  label: 神通品二章
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR5h0009_CK-KZ-jye_002-h4
+    span:
+    - body
+    - 672
+    - 1163
+  label: 神通品三章
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR5h0009_CK-KZ-jye_002-h5
+    span:
+    - body
+    - 1163
+    - 1450
+  label: 神通品四章
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR5h0009_CK-KZ-jye_002-h6
+    span:
+    - body
+    - 1450
+    - 1762
+  label: 神通品五章
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR5h0009_CK-KZ-jye_002-h7
+    span:
+    - body
+    - 1762
+    - 2252
+  label: 神通品六章
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR5h0009_CK-KZ-jye_002-h8
+    span:
+    - body
+    - 2252
+    - 2880
+  label: 神通品七章
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR5h0009_CK-KZ-jye_002-h9
+    span:
+    - body
+    - 2880
+    - 3670
+  label: 神通品八章
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR5h0009_CK-KZ-jye_002-h10
+    span:
+    - body
+    - 3670
+    - 4478
+  label: 神通品九章
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR5h0009_CK-KZ-jye_002-h11
+    span:
+    - body
+    - 4478
+    - 5057
+  label: 神通品十章¶<md:KR5h0009_HFL_002-018b>
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR5h0009_CK-KZ-jye_002-h12
+    span:
+    - body
+    - 5057
+    - 7393
+  label: 神通品十一章
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR5h0009_CK-KZ-jye_002-h13
+    span:
+    - body
+    - 7393
+    - 8246
+  label: 神通品十二章
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR5h0009_CK-KZ-jye_003-h1
+    span:
+    - body
+    - 0
+    - 785
+  label: 神通品十三章
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR5h0009_CK-KZ-jye_003-h2
+    span:
+    - body
+    - 785
+    - 1524
+  label: 神通品十四章
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR5h0009_CK-KZ-jye_003-h3
+    span:
+    - body
+    - 1524
+    - 2303
+  label: 神通品十五章
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR5h0009_CK-KZ-jye_003-h4
+    span:
+    - body
+    - 2303
+    - 3114
+  label: 神通品十六章
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR5h0009_CK-KZ-jye_003-h5
+    span:
+    - body
+    - 3114
+    - 3922
+  label: 神通品十七章
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR5h0009_CK-KZ-jye_003-h6
+    span:
+    - body
+    - 3922
+    - 4710
+  label: 神通品十八章
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR5h0009_CK-KZ-jye_003-h7
+    span:
+    - body
+    - 4710
+    - 5135
+  label: 神通品十九章
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR5h0009_CK-KZ-jye_003-h8
+    span:
+    - body
+    - 5135
+    - 6335
+  label: 神通品二十章
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR5h0009_CK-KZ-jye_003-h9
+    span:
+    - body
+    - 6335
+    - 7129
+  label: 神通品二十一章
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR5h0009_CK-KZ-jye_003-h10
+    span:
+    - body
+    - 7129
+    - 7934
+  label: 神通品二十二章
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR5h0009_CK-KZ-jye_003-h11
+    span:
+    - body
+    - 7934
+    - 8726
+  label: 神通品二十三章
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR5h0009_CK-KZ-jye_003-h12
+    span:
+    - body
+    - 8726
+    - 9334
+  label: 神通品二十四章
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR5h0009_CK-KZ-jye_004-h1
+    span:
+    - body
+    - 0
+    - 358
+  label: 神通品¶二十五章
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR5h0009_CK-KZ-jye_004-h2
+    span:
+    - body
+    - 358
+    - 1554
+  label: 神通品二十六章
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR5h0009_CK-KZ-jye_004-h3
+    span:
+    - body
+    - 1554
+    - 2299
+  label: 神通品二十七章
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR5h0009_CK-KZ-jye_004-h4
+    span:
+    - body
+    - 2299
+    - 3083
+  label: 神通品二十八章
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR5h0009_CK-KZ-jye_004-h5
+    span:
+    - body
+    - 3083
+    - 3875
+  label: 神通品二十九章
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR5h0009_CK-KZ-jye_004-h6
+    span:
+    - body
+    - 3875
+    - 4659
+  label: 神通品三十章
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR5h0009_CK-KZ-jye_004-h7
+    span:
+    - body
+    - 4659
+    - 5454
+  label: 神通品三十一章
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR5h0009_CK-KZ-jye_004-h8
+    span:
+    - body
+    - 5454
+    - 6257
+  label: 神通品三十二章
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR5h0009_CK-KZ-jye_004-h9
+    span:
+    - body
+    - 6257
+    - 7057
+  label: 神通品三十三章
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR5h0009_CK-KZ-jye_004-h10
+    span:
+    - body
+    - 7057
+    - 7838
+  label: 神通品三十四章
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR5h0009_CK-KZ-jye_004-h11
+    span:
+    - body
+    - 7838
+    - 8624
+  label: 神通品三十五章
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR5h0009_CK-KZ-jye_004-h12
+    span:
+    - body
+    - 8624
+    - 9011
+  label: 神通品三十六章
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR5h0009_CK-KZ-jye_004-h13
+    span:
+    - body
+    - 9011
+    - 9383
+  label: 上卷分章攷義
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR5h0009_CK-KZ-jye_005-h2
+    span:
+    - body
+    - 0
+    - 662
+  label: 神咒品第一章
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR5h0009_CK-KZ-jye_005-h3
+    span:
+    - body
+    - 662
+    - 1406
+  label: 神咒品二章
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR5h0009_CK-KZ-jye_005-h4
+    span:
+    - body
+    - 1406
+    - 2183
+  label: 神咒品三章
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR5h0009_CK-KZ-jye_005-h5
+    span:
+    - body
+    - 2183
+    - 2931
+  label: 神咒品四章
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR5h0009_CK-KZ-jye_005-h6
+    span:
+    - body
+    - 2931
+    - 3527
+  label: 神咒品五章
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR5h0009_CK-KZ-jye_005-h7
+    span:
+    - body
+    - 3527
+    - 4262
+  label: 神咒品六章
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR5h0009_CK-KZ-jye_005-h8
+    span:
+    - body
+    - 4262
+    - 4938
+  label: 神咒品七章
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR5h0009_CK-KZ-jye_005-h9
+    span:
+    - body
+    - 4938
+    - 5620
+  label: 神咒品八章
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR5h0009_CK-KZ-jye_005-h10
+    span:
+    - body
+    - 5620
+    - 6317
+  label: 神咒品九章
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR5h0009_CK-KZ-jye_005-h11
+    span:
+    - body
+    - 6317
+    - 7098
+  label: 神咒品十¶章
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR5h0009_CK-KZ-jye_005-h12
+    span:
+    - body
+    - 7098
+    - 7916
+  label: 神咒品十一章
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR5h0009_CK-KZ-jye_005-h13
+    span:
+    - body
+    - 7916
+    - 8522
+  label: 神咒品十二章
+  type: section
+  level: 2
+- ref:
+    seq: 6
+    marker_id: KR5h0009_CK-KZ-jye_006-h1
+    span:
+    - body
+    - 0
+    - 723
+  label: ¶<md:KR5h0009_HFL_006-001a>¶　神咒品十三章
+  type: section
+  level: 2
+- ref:
+    seq: 6
+    marker_id: KR5h0009_CK-KZ-jye_006-h2
+    span:
+    - body
+    - 723
+    - 1512
+  label: 神咒品十四章
+  type: section
+  level: 2
+- ref:
+    seq: 6
+    marker_id: KR5h0009_CK-KZ-jye_006-h3
+    span:
+    - body
+    - 1512
+    - 2214
+  label: 神咒品十五章
+  type: section
+  level: 2
+- ref:
+    seq: 6
+    marker_id: KR5h0009_CK-KZ-jye_006-h4
+    span:
+    - body
+    - 2214
+    - 2925
+  label: 神咒品十六章
+  type: section
+  level: 2
+- ref:
+    seq: 6
+    marker_id: KR5h0009_CK-KZ-jye_006-h5
+    span:
+    - body
+    - 2925
+    - 2925
+  label: 功德品一續前十七章
+  type: section
+  level: 2
+- ref:
+    seq: 6
+    marker_id: KR5h0009_CK-KZ-jye_006-h6
+    span:
+    - body
+    - 2925
+    - 3555
+  label: 玉皇功德品第三
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR5h0009_CK-KZ-jye_006-h7
+    span:
+    - body
+    - 3555
+    - 4230
+  label: 功德品續上十八章
+  type: section
+  level: 2
+- ref:
+    seq: 6
+    marker_id: KR5h0009_CK-KZ-jye_006-h8
+    span:
+    - body
+    - 4230
+    - 4977
+  label: 功德品連上十九章
+  type: section
+  level: 2
+- ref:
+    seq: 6
+    marker_id: KR5h0009_CK-KZ-jye_006-h9
+    span:
+    - body
+    - 4977
+    - 5575
+  label: 功德品續二十章
+  type: section
+  level: 2
+- ref:
+    seq: 6
+    marker_id: KR5h0009_CK-KZ-jye_006-h10
+    span:
+    - body
+    - 5575
+    - 6236
+  label: 功德品續二十一章
+  type: section
+  level: 2
+- ref:
+    seq: 6
+    marker_id: KR5h0009_CK-KZ-jye_006-h11
+    span:
+    - body
+    - 6236
+    - 6831
+  label: 功德品續二十二章
+  type: section
+  level: 2
+- ref:
+    seq: 6
+    marker_id: KR5h0009_CK-KZ-jye_006-h12
+    span:
+    - body
+    - 6831
+    - 7503
+  label: 功德品二十三章
+  type: section
+  level: 2
+- ref:
+    seq: 6
+    marker_id: KR5h0009_CK-KZ-jye_006-h13
+    span:
+    - body
+    - 7503
+    - 7928
+  label: 功德品續二十四章
+  type: section
+  level: 2
+- ref:
+    seq: 7
+    marker_id: KR5h0009_CK-KZ-jye_007-h1
+    span:
+    - body
+    - 0
+    - 592
+  label: 功德品續二十五章
+  type: section
+  level: 2
+- ref:
+    seq: 7
+    marker_id: KR5h0009_CK-KZ-jye_007-h2
+    span:
+    - body
+    - 592
+    - 1272
+  label: 功德品續二十六章
+  type: section
+  level: 2
+- ref:
+    seq: 7
+    marker_id: KR5h0009_CK-KZ-jye_007-h3
+    span:
+    - body
+    - 1272
+    - 1932
+  label: 功德品續二十七章
+  type: section
+  level: 2
+- ref:
+    seq: 7
+    marker_id: KR5h0009_CK-KZ-jye_007-h4
+    span:
+    - body
+    - 1932
+    - 2633
+  label: 功德品二十八章
+  type: section
+  level: 2
+- ref:
+    seq: 7
+    marker_id: KR5h0009_CK-KZ-jye_007-h5
+    span:
+    - body
+    - 2633
+    - 3368
+  label: 功德品續二十九章
+  type: section
+  level: 2
+- ref:
+    seq: 7
+    marker_id: KR5h0009_CK-KZ-jye_007-h6
+    span:
+    - body
+    - 3368
+    - 4159
+  label: 功德品續三十章
+  type: section
+  level: 2
+- ref:
+    seq: 7
+    marker_id: KR5h0009_CK-KZ-jye_007-h7
+    span:
+    - body
+    - 4159
+    - 4886
+  label: 功德品續三十一章
+  type: section
+  level: 2
+- ref:
+    seq: 7
+    marker_id: KR5h0009_CK-KZ-jye_007-h8
+    span:
+    - body
+    - 4886
+    - 5619
+  label: 功德品續三十二章
+  type: section
+  level: 2
+- ref:
+    seq: 7
+    marker_id: KR5h0009_CK-KZ-jye_007-h9
+    span:
+    - body
+    - 5619
+    - 6253
+  label: 功德品續三十三章
+  type: section
+  level: 2
+- ref:
+    seq: 7
+    marker_id: KR5h0009_CK-KZ-jye_007-h10
+    span:
+    - body
+    - 6253
+    - 7051
+  label: 功德品續三十四章
+  type: section
+  level: 2
+- ref:
+    seq: 7
+    marker_id: KR5h0009_CK-KZ-jye_007-h11
+    span:
+    - body
+    - 7051
+    - 7968
+  label: 功德品續三十五章
+  type: section
+  level: 2
+- ref:
+    seq: 7
+    marker_id: KR5h0009_CK-KZ-jye_007-h12
+    span:
+    - body
+    - 7968
+    - 8477
+  label: 功德品續三十六章
+  type: section
+  level: 2
+- ref:
+    seq: 8
+    marker_id: KR5h0009_CK-KZ-jye_008-h2
+    span:
+    - body
+    - 0
+    - 402
+  label: 護持品一章
+  type: section
+  level: 2
+- ref:
+    seq: 8
+    marker_id: KR5h0009_CK-KZ-jye_008-h3
+    span:
+    - body
+    - 402
+    - 927
+  label: 護持品二章
+  type: section
+  level: 2
+- ref:
+    seq: 8
+    marker_id: KR5h0009_CK-KZ-jye_008-h4
+    span:
+    - body
+    - 927
+    - 1478
+  label: 護持品三章
+  type: section
+  level: 2
+- ref:
+    seq: 8
+    marker_id: KR5h0009_CK-KZ-jye_008-h5
+    span:
+    - body
+    - 1478
+    - 1902
+  label: 護持品四章
+  type: section
+  level: 2
+- ref:
+    seq: 8
+    marker_id: KR5h0009_CK-KZ-jye_008-h6
+    span:
+    - body
+    - 1902
+    - 2699
+  label: 護持品五章
+  type: section
+  level: 2
+- ref:
+    seq: 8
+    marker_id: KR5h0009_CK-KZ-jye_008-h7
+    span:
+    - body
+    - 2699
+    - 3254
+  label: 護持品六章
+  type: section
+  level: 2
+- ref:
+    seq: 8
+    marker_id: KR5h0009_CK-KZ-jye_008-h8
+    span:
+    - body
+    - 3254
+    - 4030
+  label: 護持品七章
+  type: section
+  level: 2
+- ref:
+    seq: 8
+    marker_id: KR5h0009_CK-KZ-jye_008-h9
+    span:
+    - body
+    - 4030
+    - 4452
+  label: 護持品八章
+  type: section
+  level: 2
+- ref:
+    seq: 8
+    marker_id: KR5h0009_CK-KZ-jye_008-h10
+    span:
+    - body
+    - 4452
+    - 5109
+  label: 護持品九章
+  type: section
+  level: 2
+- ref:
+    seq: 8
+    marker_id: KR5h0009_CK-KZ-jye_008-h11
+    span:
+    - body
+    - 5109
+    - 5635
+  label: 護持品十章
+  type: section
+  level: 2
+- ref:
+    seq: 8
+    marker_id: KR5h0009_CK-KZ-jye_008-h12
+    span:
+    - body
+    - 5635
+    - 5635
+  label: 應驗品續十一章
+  type: section
+  level: 2
+- ref:
+    seq: 8
+    marker_id: KR5h0009_CK-KZ-jye_008-h13
+    span:
+    - body
+    - 5635
+    - 6156
+  label: 報應神驗品第五
+  type: section
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR5h0009_CK-KZ-jye_008-h14
+    span:
+    - body
+    - 6156
+    - 6720
+  label: 應驗品續十二章
+  type: section
+  level: 2
+- ref:
+    seq: 8
+    marker_id: KR5h0009_CK-KZ-jye_008-h15
+    span:
+    - body
+    - 6720
+    - 7282
+  label: 應驗品續十三章
+  type: section
+  level: 2
+- ref:
+    seq: 8
+    marker_id: KR5h0009_CK-KZ-jye_008-h16
+    span:
+    - body
+    - 7282
+    - 7946
+  label: 應驗品續十四章
+  type: section
+  level: 2
+- ref:
+    seq: 8
+    marker_id: KR5h0009_CK-KZ-jye_008-h17
+    span:
+    - body
+    - 7946
+    - 8317
+  label: 應驗品續十五章
+  type: section
+  level: 2
+- ref:
+    seq: 8
+    marker_id: KR5h0009_CK-KZ-jye_008-h18
+    span:
+    - body
+    - 8317
+    - 8607
+  label: 應驗品續十六章
+  type: section
+  level: 2
+- ref:
+    seq: 8
+    marker_id: KR5h0009_CK-KZ-jye_008-h19
+    span:
+    - body
+    - 8607
+    - 8985
+  label: 應驗品續十七章
+  type: section
+  level: 2
+- ref:
+    seq: 8
+    marker_id: KR5h0009_CK-KZ-jye_008-h20
+    span:
+    - body
+    - 8985
+    - 9069
+  label: 應驗品續十八章
+  type: section
+  level: 2
+- ref:
+    seq: 9
+    marker_id: KR5h0009_CK-KZ-jye_009-h1
+    span:
+    - body
+    - 0
+    - 401
+  label: 應驗品續十九章
+  type: section
+  level: 2
+- ref:
+    seq: 9
+    marker_id: KR5h0009_CK-KZ-jye_009-h2
+    span:
+    - body
+    - 401
+    - 818
+  label: 應驗品續二十章
+  type: section
+  level: 2
+- ref:
+    seq: 9
+    marker_id: KR5h0009_CK-KZ-jye_009-h3
+    span:
+    - body
+    - 818
+    - 1382
+  label: 應驗品續二十一章
+  type: section
+  level: 2
+- ref:
+    seq: 9
+    marker_id: KR5h0009_CK-KZ-jye_009-h4
+    span:
+    - body
+    - 1382
+    - 1783
+  label: 應驗品續二十二章
+  type: section
+  level: 2
+- ref:
+    seq: 9
+    marker_id: KR5h0009_CK-KZ-jye_009-h5
+    span:
+    - body
+    - 1783
+    - 2266
+  label: 應驗品續二十三章
+  type: section
+  level: 2
+- ref:
+    seq: 9
+    marker_id: KR5h0009_CK-KZ-jye_009-h6
+    span:
+    - body
+    - 2266
+    - 2788
+  label: 應驗品續二十四章
+  type: section
+  level: 2
+- ref:
+    seq: 10
+    marker_id: KR5h0009_CK-KZ-jye_010-h1
+    span:
+    - body
+    - 0
+    - 481
+  label: 應驗品續二十五章
+  type: section
+  level: 2
+- ref:
+    seq: 10
+    marker_id: KR5h0009_CK-KZ-jye_010-h2
+    span:
+    - body
+    - 481
+    - 987
+  label: 應驗品續二十六章
+  type: section
+  level: 2
+- ref:
+    seq: 10
+    marker_id: KR5h0009_CK-KZ-jye_010-h3
+    span:
+    - body
+    - 987
+    - 1507
+  label: 應驗品續二十七章
+  type: section
+  level: 2
+- ref:
+    seq: 10
+    marker_id: KR5h0009_CK-KZ-jye_010-h4
+    span:
+    - body
+    - 1507
+    - 1903
+  label: 應驗品續二十八章
+  type: section
+  level: 2
+- ref:
+    seq: 10
+    marker_id: KR5h0009_CK-KZ-jye_010-h5
+    span:
+    - body
+    - 1903
+    - 2182
+  label: 應驗品續二十九章
+  type: section
+  level: 2
+- ref:
+    seq: 10
+    marker_id: KR5h0009_CK-KZ-jye_010-h6
+    span:
+    - body
+    - 2182
+    - 2727
+  label: 應驗品續三十章
+  type: section
+  level: 2
+- ref:
+    seq: 10
+    marker_id: KR5h0009_CK-KZ-jye_010-h7
+    span:
+    - body
+    - 2727
+    - 3286
+  label: 應驗品續三十一章
+  type: section
+  level: 2
+- ref:
+    seq: 10
+    marker_id: KR5h0009_CK-KZ-jye_010-h8
+    span:
+    - body
+    - 3286
+    - 3605
+  label: 應驗品續三十二章
+  type: section
+  level: 2
+- ref:
+    seq: 10
+    marker_id: KR5h0009_CK-KZ-jye_010-h9
+    span:
+    - body
+    - 3605
+    - 3968
+  label: 應驗品續三十三章
+  type: section
+  level: 2
+- ref:
+    seq: 10
+    marker_id: KR5h0009_CK-KZ-jye_010-h10
+    span:
+    - body
+    - 3968
+    - 4469
+  label: 應驗品續三十四章
+  type: section
+  level: 2
+- ref:
+    seq: 10
+    marker_id: KR5h0009_CK-KZ-jye_010-h11
+    span:
+    - body
+    - 4469
+    - 4802
+  label: 應驗品續三十五章
+  type: section
+  level: 2
+- ref:
+    seq: 10
+    marker_id: KR5h0009_CK-KZ-jye_010-h12
+    span:
+    - body
+    - 4802
+    - 6506
+  label: 應驗品續三十六章
+  type: section
+  level: 2
+hash: sha256:c87227c037f763c6d0575326cc24b47902e0d1fdad4694b2367dd622866c935d
