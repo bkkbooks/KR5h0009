@@ -29,9 +29,9 @@ assets:
   - {seq: 4, filename: KR5h0009_004-CK-KZ-jye.yaml, hash: 'sha256:d3fba18aa95c7e82b7b43e0dc05e26b0039b54dfc26444aa76fa9b6c20bdd80f'}
   - {seq: 5, filename: KR5h0009_005-CK-KZ-jye.yaml, hash: 'sha256:919d4b4f07e196e8a25419c95968d3cb0a3cf5fbdf4a9cc8d7abec64bcaac1e1'}
   - {seq: 6, filename: KR5h0009_006-CK-KZ-jye.yaml, hash: 'sha256:53a1b9230b2a80fcb53148de4a48cbc11935663110043ebbf02e6feb56fbe9a8'}
-  - {seq: 7, filename: KR5h0009_007-CK-KZ-jye.yaml, hash: 'sha256:6c9eab3165ec3fd05a68a6d7e5e2960b943a698f2205369f8aa26fa99d2e171a'}
-  - {seq: 8, filename: KR5h0009_008-CK-KZ-jye.yaml, hash: 'sha256:2e49a4fffb1fc0337eb73e4b7de7bd637f0b09ad7b753dcd39b8133bace96c6b'}
-  - {seq: 9, filename: KR5h0009_009-CK-KZ-jye.yaml, hash: 'sha256:cb3b6a116f3f0f7342722b91a43cd767e3096f9651419124c1ecbc5eed2209bf'}
+  - {seq: 7, filename: KR5h0009_007-CK-KZ-jye.yaml, hash: 'sha256:fc9aa1e4a828d2143abc600e4143a12c47d5dab2ed4cd264e2f158d13e5795e1'}
+  - {seq: 8, filename: KR5h0009_008-CK-KZ-jye.yaml, hash: 'sha256:daa4868771d853272697c89469db9bf27a07e824647feb1cdef9e86262da15e5'}
+  - {seq: 9, filename: KR5h0009_009-CK-KZ-jye.yaml, hash: 'sha256:1dfd0368408c37eaa9ab61cb2e96e2d41c7b3f06fa1d1f70de5ee3c14bcdc5c9'}
   - {seq: 10, filename: KR5h0009_010-CK-KZ-jye.yaml, hash: 'sha256:9291285eaea44f591098514752e2785a11c9519e49728a9fb56415825ea5a014'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR5h0009_000-CK-KZ-jye.markers.yaml, hash: 'sha256:37efd2facd81e91cb2e859dd4e9f5a185e4226ec33517d1e76d1ecee6f2dd384'}
@@ -41,9 +41,9 @@ assets:
   - {seq: 4, role: markers, filename: assets/KR5h0009_004-CK-KZ-jye.markers.yaml, hash: 'sha256:e03a8058374c014c02828859a64e93b6301e608b1190b45b6f6566b54ef7eda9'}
   - {seq: 5, role: markers, filename: assets/KR5h0009_005-CK-KZ-jye.markers.yaml, hash: 'sha256:2fbf757cc3ccf024e273bcfb4cb4ce185738ebf7af072710a6dd816d9c718bcb'}
   - {seq: 6, role: markers, filename: assets/KR5h0009_006-CK-KZ-jye.markers.yaml, hash: 'sha256:13893f15cb542039d6fa5242ae1331f803d3e629483ce6bb4a3d9de1b6ffd368'}
-  - {seq: 7, role: markers, filename: assets/KR5h0009_007-CK-KZ-jye.markers.yaml, hash: 'sha256:1830049c122319d6e604096cec265708e5b30efce146901c43f3027d0aae5ebc'}
-  - {seq: 8, role: markers, filename: assets/KR5h0009_008-CK-KZ-jye.markers.yaml, hash: 'sha256:82f40c4b5a188bcba1e2031f47601e9a0fd382f1817fa45c216ce2c56c519dc3'}
-  - {seq: 9, role: markers, filename: assets/KR5h0009_009-CK-KZ-jye.markers.yaml, hash: 'sha256:37e1a4b78dd63bd374c7a53d1bdf1f75f7880008c711b20187be52c758c0ee56'}
+  - {seq: 7, role: markers, filename: assets/KR5h0009_007-CK-KZ-jye.markers.yaml, hash: 'sha256:079f7bc2d844c439e2a03ae438c4638c737ba65ce70a9e795a9cfb11a18dc022'}
+  - {seq: 8, role: markers, filename: assets/KR5h0009_008-CK-KZ-jye.markers.yaml, hash: 'sha256:71ff7da37a631a01fa04d0de43dbcd7bcaf26c0d4b8919058441c4e2a2f46350'}
+  - {seq: 9, role: markers, filename: assets/KR5h0009_009-CK-KZ-jye.markers.yaml, hash: 'sha256:b0428594846d5271906553505ef2fbd0d1de99f097adece1c33a0650e136f85f'}
   - {seq: 10, role: markers, filename: assets/KR5h0009_010-CK-KZ-jye.markers.yaml, hash: 'sha256:aa588f64bbeca37d6f91e1239ce46344dd31cb96c640b6417eaacf07a5ef3cca'}
 table_of_contents:
 - ref:
@@ -691,8 +691,8 @@ table_of_contents:
     marker_id: KR5h0009_CK-KZ-jye_007-h1
     span:
     - body
-    - 0
-    - 592
+    - 204
+    - 796
   label: 功德品續二十五章
   type: section
   level: 2
@@ -701,8 +701,8 @@ table_of_contents:
     marker_id: KR5h0009_CK-KZ-jye_007-h2
     span:
     - body
-    - 592
-    - 1272
+    - 796
+    - 1476
   label: 功德品續二十六章
   type: section
   level: 2
@@ -711,8 +711,8 @@ table_of_contents:
     marker_id: KR5h0009_CK-KZ-jye_007-h3
     span:
     - body
-    - 1272
-    - 1932
+    - 1476
+    - 2136
   label: 功德品續二十七章
   type: section
   level: 2
@@ -721,8 +721,8 @@ table_of_contents:
     marker_id: KR5h0009_CK-KZ-jye_007-h4
     span:
     - body
-    - 1932
-    - 2633
+    - 2136
+    - 2837
   label: 功德品二十八章
   type: section
   level: 2
@@ -731,8 +731,8 @@ table_of_contents:
     marker_id: KR5h0009_CK-KZ-jye_007-h5
     span:
     - body
-    - 2633
-    - 3368
+    - 2837
+    - 3572
   label: 功德品續二十九章
   type: section
   level: 2
@@ -741,8 +741,8 @@ table_of_contents:
     marker_id: KR5h0009_CK-KZ-jye_007-h6
     span:
     - body
-    - 3368
-    - 4159
+    - 3572
+    - 4363
   label: 功德品續三十章
   type: section
   level: 2
@@ -751,8 +751,8 @@ table_of_contents:
     marker_id: KR5h0009_CK-KZ-jye_007-h7
     span:
     - body
-    - 4159
-    - 4886
+    - 4363
+    - 5090
   label: 功德品續三十一章
   type: section
   level: 2
@@ -761,8 +761,8 @@ table_of_contents:
     marker_id: KR5h0009_CK-KZ-jye_007-h8
     span:
     - body
-    - 4886
-    - 5619
+    - 5090
+    - 5823
   label: 功德品續三十二章
   type: section
   level: 2
@@ -771,8 +771,8 @@ table_of_contents:
     marker_id: KR5h0009_CK-KZ-jye_007-h9
     span:
     - body
-    - 5619
-    - 6253
+    - 5823
+    - 6457
   label: 功德品續三十三章
   type: section
   level: 2
@@ -781,8 +781,8 @@ table_of_contents:
     marker_id: KR5h0009_CK-KZ-jye_007-h10
     span:
     - body
-    - 6253
-    - 7051
+    - 6457
+    - 7255
   label: 功德品續三十四章
   type: section
   level: 2
@@ -791,8 +791,8 @@ table_of_contents:
     marker_id: KR5h0009_CK-KZ-jye_007-h11
     span:
     - body
-    - 7051
-    - 7968
+    - 7255
+    - 8172
   label: 功德品續三十五章
   type: section
   level: 2
@@ -801,8 +801,8 @@ table_of_contents:
     marker_id: KR5h0009_CK-KZ-jye_007-h12
     span:
     - body
-    - 7968
-    - 8477
+    - 8172
+    - 8681
   label: 功德品續三十六章
   type: section
   level: 2
@@ -811,8 +811,8 @@ table_of_contents:
     marker_id: KR5h0009_CK-KZ-jye_008-h2
     span:
     - body
-    - 0
-    - 402
+    - 306
+    - 708
   label: 護持品一章
   type: section
   level: 2
@@ -821,8 +821,8 @@ table_of_contents:
     marker_id: KR5h0009_CK-KZ-jye_008-h3
     span:
     - body
-    - 402
-    - 927
+    - 708
+    - 1233
   label: 護持品二章
   type: section
   level: 2
@@ -831,8 +831,8 @@ table_of_contents:
     marker_id: KR5h0009_CK-KZ-jye_008-h4
     span:
     - body
-    - 927
-    - 1478
+    - 1233
+    - 1784
   label: 護持品三章
   type: section
   level: 2
@@ -841,8 +841,8 @@ table_of_contents:
     marker_id: KR5h0009_CK-KZ-jye_008-h5
     span:
     - body
-    - 1478
-    - 1902
+    - 1784
+    - 2208
   label: 護持品四章
   type: section
   level: 2
@@ -851,8 +851,8 @@ table_of_contents:
     marker_id: KR5h0009_CK-KZ-jye_008-h6
     span:
     - body
-    - 1902
-    - 2699
+    - 2208
+    - 3005
   label: 護持品五章
   type: section
   level: 2
@@ -861,8 +861,8 @@ table_of_contents:
     marker_id: KR5h0009_CK-KZ-jye_008-h7
     span:
     - body
-    - 2699
-    - 3254
+    - 3005
+    - 3560
   label: 護持品六章
   type: section
   level: 2
@@ -871,8 +871,8 @@ table_of_contents:
     marker_id: KR5h0009_CK-KZ-jye_008-h8
     span:
     - body
-    - 3254
-    - 4030
+    - 3560
+    - 4336
   label: 護持品七章
   type: section
   level: 2
@@ -881,8 +881,8 @@ table_of_contents:
     marker_id: KR5h0009_CK-KZ-jye_008-h9
     span:
     - body
-    - 4030
-    - 4452
+    - 4336
+    - 4758
   label: 護持品八章
   type: section
   level: 2
@@ -891,8 +891,8 @@ table_of_contents:
     marker_id: KR5h0009_CK-KZ-jye_008-h10
     span:
     - body
-    - 4452
-    - 5109
+    - 4758
+    - 5415
   label: 護持品九章
   type: section
   level: 2
@@ -901,8 +901,8 @@ table_of_contents:
     marker_id: KR5h0009_CK-KZ-jye_008-h11
     span:
     - body
-    - 5109
-    - 5635
+    - 5415
+    - 5941
   label: 護持品十章
   type: section
   level: 2
@@ -911,8 +911,8 @@ table_of_contents:
     marker_id: KR5h0009_CK-KZ-jye_008-h12
     span:
     - body
-    - 5635
-    - 5635
+    - 5941
+    - 5941
   label: 應驗品續十一章
   type: section
   level: 2
@@ -921,8 +921,8 @@ table_of_contents:
     marker_id: KR5h0009_CK-KZ-jye_008-h13
     span:
     - body
-    - 5635
-    - 6156
+    - 5941
+    - 6462
   label: 報應神驗品第五
   type: section
   level: 1
@@ -931,8 +931,8 @@ table_of_contents:
     marker_id: KR5h0009_CK-KZ-jye_008-h14
     span:
     - body
-    - 6156
-    - 6720
+    - 6462
+    - 7026
   label: 應驗品續十二章
   type: section
   level: 2
@@ -941,8 +941,8 @@ table_of_contents:
     marker_id: KR5h0009_CK-KZ-jye_008-h15
     span:
     - body
-    - 6720
-    - 7282
+    - 7026
+    - 7588
   label: 應驗品續十三章
   type: section
   level: 2
@@ -951,8 +951,8 @@ table_of_contents:
     marker_id: KR5h0009_CK-KZ-jye_008-h16
     span:
     - body
-    - 7282
-    - 7946
+    - 7588
+    - 8252
   label: 應驗品續十四章
   type: section
   level: 2
@@ -961,8 +961,8 @@ table_of_contents:
     marker_id: KR5h0009_CK-KZ-jye_008-h17
     span:
     - body
-    - 7946
-    - 8317
+    - 8252
+    - 8623
   label: 應驗品續十五章
   type: section
   level: 2
@@ -971,8 +971,8 @@ table_of_contents:
     marker_id: KR5h0009_CK-KZ-jye_008-h18
     span:
     - body
-    - 8317
-    - 8607
+    - 8623
+    - 8913
   label: 應驗品續十六章
   type: section
   level: 2
@@ -981,8 +981,8 @@ table_of_contents:
     marker_id: KR5h0009_CK-KZ-jye_008-h19
     span:
     - body
-    - 8607
-    - 8985
+    - 8913
+    - 9291
   label: 應驗品續十七章
   type: section
   level: 2
@@ -991,8 +991,8 @@ table_of_contents:
     marker_id: KR5h0009_CK-KZ-jye_008-h20
     span:
     - body
-    - 8985
-    - 9069
+    - 9291
+    - 9375
   label: 應驗品續十八章
   type: section
   level: 2
@@ -1001,8 +1001,8 @@ table_of_contents:
     marker_id: KR5h0009_CK-KZ-jye_009-h1
     span:
     - body
-    - 0
-    - 401
+    - 327
+    - 728
   label: 應驗品續十九章
   type: section
   level: 2
@@ -1011,8 +1011,8 @@ table_of_contents:
     marker_id: KR5h0009_CK-KZ-jye_009-h2
     span:
     - body
-    - 401
-    - 818
+    - 728
+    - 1145
   label: 應驗品續二十章
   type: section
   level: 2
@@ -1021,8 +1021,8 @@ table_of_contents:
     marker_id: KR5h0009_CK-KZ-jye_009-h3
     span:
     - body
-    - 818
-    - 1382
+    - 1145
+    - 1709
   label: 應驗品續二十一章
   type: section
   level: 2
@@ -1031,8 +1031,8 @@ table_of_contents:
     marker_id: KR5h0009_CK-KZ-jye_009-h4
     span:
     - body
-    - 1382
-    - 1783
+    - 1709
+    - 2110
   label: 應驗品續二十二章
   type: section
   level: 2
@@ -1041,8 +1041,8 @@ table_of_contents:
     marker_id: KR5h0009_CK-KZ-jye_009-h5
     span:
     - body
-    - 1783
-    - 2266
+    - 2110
+    - 2593
   label: 應驗品續二十三章
   type: section
   level: 2
@@ -1051,8 +1051,8 @@ table_of_contents:
     marker_id: KR5h0009_CK-KZ-jye_009-h6
     span:
     - body
-    - 2266
-    - 2788
+    - 2593
+    - 3115
   label: 應驗品續二十四章
   type: section
   level: 2
@@ -1176,4 +1176,4 @@ table_of_contents:
   label: 應驗品續三十六章
   type: section
   level: 2
-hash: sha256:af1bfb57b44d573893916a4619b0c22aeb438c9c9d0eb1c72cdcbecaefdc9b6a
+hash: sha256:10744f6c8ee0df48818fc63420915fd6f61482dbc500454d29e634fd9896179e
